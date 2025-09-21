@@ -6,7 +6,6 @@ The **Online Voting System** is a web-based application that allows students to 
 Each student is given a **unique ID** to log in and vote securely.  
 Developed with **Java (JSP, Servlets)**, **MySQL**, and deployed on **GlassFish Server** using **NetBeans IDE**.  
 
----
 
 ## Features
 - Secure **student login** with unique ID  
@@ -15,7 +14,6 @@ Developed with **Java (JSP, Servlets)**, **MySQL**, and deployed on **GlassFish 
 - **Admin panel** to manage users and candidates  
 - Accessible from **any web browser**  
 
----
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
@@ -24,7 +22,6 @@ Developed with **Java (JSP, Servlets)**, **MySQL**, and deployed on **GlassFish 
 - **Server**: GlassFish 4.1+  
 - **IDE**: NetBeans  
 
----
 
 ## Requirements
 
@@ -40,7 +37,6 @@ Developed with **Java (JSP, Servlets)**, **MySQL**, and deployed on **GlassFish 
 - RAM: 4GB+  
 - Disk: 50 GB free  
 
----
 
 ## Project Structure
 OnlineVotingSystem/
@@ -50,9 +46,6 @@ OnlineVotingSystem/
 │── build/ # Build artifacts (NetBeans)
 │── README.md # Project documentation
 
----
-
----
 
 ## How to Run
 1. **Clone this repo**
@@ -66,11 +59,11 @@ OnlineVotingSystem/
 4. Deploy on GlassFish
    Right-click project → Run → Select GlassFish Server
 5. Access in Browser
-  ```bash
-  http://localhost:8080/OnlineVotingSystem
-  ```
+   ```bash
+   http://localhost:8080/OnlineVotingSystem
+    ```
 
-**##Future Enhancements**
+**Future Enhancements**
 - Add biometric / OTP authentication
 - Enable mobile-friendly voting
 - Integrate blockchain for tamper-proof elections
