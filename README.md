@@ -39,6 +39,7 @@ Developed with **Java (JSP, Servlets)**, **MySQL**, and deployed on **GlassFish 
 
 
 ## Project Structure
+```bash
 OnlineVotingSystem/
 │── src/ # Java source files (Servlets, DB connections)
 │── web/ # JSP files, HTML, CSS, JS
@@ -61,9 +62,9 @@ OnlineVotingSystem/
 5. Access in Browser
    ```bash
    http://localhost:8080/OnlineVotingSystem
-    ```
+   ```
 
-**Future Enhancements**
+##Future Enhancements
 - Add biometric / OTP authentication
 - Enable mobile-friendly voting
 - Integrate blockchain for tamper-proof elections
