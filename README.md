@@ -64,7 +64,7 @@ OnlineVotingSystem/
    http://localhost:8080/OnlineVotingSystem
    ```
 
-##Future Enhancements
+## Future Enhancements
 - Add biometric / OTP authentication
 - Enable mobile-friendly voting
 - Integrate blockchain for tamper-proof elections
