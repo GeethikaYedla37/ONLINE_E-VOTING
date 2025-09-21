@@ -46,7 +46,7 @@ OnlineVotingSystem/
 │── database/ # SQL scripts for MySQL setup
 │── build/ # Build artifacts (NetBeans)
 │── README.md # Project documentation
-
+```
 
 ## How to Run
 1. **Clone this repo**
